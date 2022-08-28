@@ -1,0 +1,21 @@
+
+Prepartion_of_Data.R: This script is used to data preparation
+
+This performs following activities
+	Load the pacakage
+	Checking and downloading the data set
+	Assigning data frames
+
+
+run_Analysis.R: This performs 5 steps as required in course work
+
+	Merge test and training data set into one merged data set
+	Extract only mean and standard deviation for each measurement
+	Uses descriptive activity names to name the activities in the data set
+	Labels the data set with descriptive variable names
+	Create an independent tidy data set with the average of each variable for each activity and each subject
+
+
+Testing_output.R:  This shows testing and writing of output - final data set in .csv and .txt formats
+	FinalData_Set.txt
+	FinalData_Set.csv
